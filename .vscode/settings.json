@@ -5,6 +5,7 @@
     "python.testing.nosetestsEnabled": false,
     "python.pythonPath": "env\\Scripts\\python.exe",
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "19.1 BitwiseOprtrs.C": "cpp"
     }
 }
