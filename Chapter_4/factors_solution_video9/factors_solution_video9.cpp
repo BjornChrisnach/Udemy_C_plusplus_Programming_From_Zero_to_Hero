@@ -1,0 +1,20 @@
+// Program challenge - Find the factors of a number
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int n, i;
+    cout << "Enter a number, to find the factors: ";
+    cin >> n;
+
+    for(i = 1; i <= (n / 2); i++)
+    {
+        if(n % i == 0)
+        {
+            cout <<i<<" ";
+        }
+    }
+    
+    return 0;
+}
