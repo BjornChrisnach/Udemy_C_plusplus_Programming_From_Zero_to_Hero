@@ -92,7 +92,7 @@ int main()
 {
     Time t1;
     Time t3(t1);
-    t3.setTime(4, 10, 30);
+    t3.setTime(0, 10, 30);
     cout << "U HAVE ENTERED THE TIME AS:\n";
     cout << t3.getHours() << ":" << t3.getMin() << ":" << t3.getSec() << endl;
     t3.universalTime();
