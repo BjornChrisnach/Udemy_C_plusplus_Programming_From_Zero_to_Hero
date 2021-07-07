@@ -52,6 +52,7 @@
         "thread": "cpp",
         "functional": "cpp",
         "regex": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "ratio": "cpp"
     }
 }
